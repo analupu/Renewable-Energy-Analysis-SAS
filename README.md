@@ -10,3 +10,11 @@ The main objectives of this project are to:
 - Identify patterns based on hours of the day and days of the week.
 - Estimate monthly and yearly trends in renewable energy usage.
 - Build prediction models using statistical and machine learning techniques.
+
+## Files
+- [Renewable energy report (PDF)](./Renewable%20energy%20sources.pdf)
+- [Energy dataset (CSV)](./energie_regresie.csv)
+
+## How to use
+1. Open the PDF for the detailed analysis.
+2. Use the CSV file as input for the SAS or other data analysis scripts.
